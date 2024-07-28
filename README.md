@@ -1,2 +1,2 @@
 # To_do_list-Task-4-
-4th project as an online intern at Codsoft
+This project is a Python-based to-do list application designed to help users manage their tasks effectively.Staying organized and keeping track of tasks is crucial for productivity. This to-do list application allows users to add, edit, delete, and view tasks, making task management simple and efficient.To use the to-do list application, simply run the Python script. The interface will guide you through adding, editing, deleting, and viewing tasks.
